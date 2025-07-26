@@ -783,9 +783,11 @@ iframe{
  .img7,.img8,.img9{
     gap: 1rem;
     margin-top: 2rem;
+      align-items: center;
  }
  .img6{
     gap: 1rem;
+      align-items: center;
  }
  .map1 p{
      margin-left: 3rem; 
