@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+input{
+    padding: 5px;
+    font-size: 20px;
+}
+button{
+    background-color: purple;
+    padding: 5px;
+    font-size: 20px;
+    color: yellow;
+    
+}
+button:hover{
+    background-color: aqua;
+}
+#main{
+    font-size: 30px;
+    color: palevioletred;
+}
